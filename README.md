@@ -16,4 +16,5 @@ This check list can be used as the starting point for optimizing and troubleshoo
 2. **executor-memory, executor-core and num-executor**: Based on cluster configuration how to set these configurations - Use this article https://spoddutur.github.io/spark-notes/distribution_of_executors_cores_and_memory_for_spark_application.html
 3. Writing the output files to s3 taking long time, then uses3-dist-cp to copy your data back to S3. If EMR cluster is missing the s3-dist-cp command you have to include Hadoop in your create-cluster command. example: --applications Name=Hadoop Name=Spark
 4.    Persist the Dataframe which are being used multiple times. This will reduce the read time.
+5. [SPARK OPTIMIZATION TECHNIQUES in](docs/databricks_spark_ui.pdf)
 
