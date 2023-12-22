@@ -6,7 +6,7 @@ This check list can be used as the starting point for optimizing and troubleshoo
 
 1. Spark Architecture and how does it integrate with Hadoop YARN. 
 2. Deep understanding of Spark Query Plans - how spark operates under the hood.
-3. How to read and analyze spark DAG from different perspectives. 
+3. [How to read and analyze spark DAG from different perspectives](https://dzone.com/articles/reading-spark-dags)
 4. How to use Spark Web UI (History Server UI) for debugging, inspecting and identifying bottleneck
 5. AWS EMR Architecture
    
