@@ -18,4 +18,5 @@ This check list can be used as the starting point for optimizing and troubleshoo
 4.    Persist the Dataframe which are being used multiple times. This will reduce the read time.
 5. [SPARK OPTIMIZATION TECHNIQUES in page 15](docs/databricks_spark_ui.pdf)
 6. [EMR Best Practices](https://aws.github.io/aws-emr-best-practices/applications/spark/best_practices/)
+7. [Best practices to optimize data access performance from Amazon EMR and AWS Glue to Amazon S3](https://aws.amazon.com/blogs/big-data/best-practices-to-optimize-data-access-performance-from-amazon-emr-and-aws-glue-to-amazon-s3/)
 
