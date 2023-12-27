@@ -24,3 +24,7 @@ This check list can be used as the starting point for optimizing and troubleshoo
 10. [EMR Best Practices](https://aws.github.io/aws-emr-best-practices/applications/spark/best_practices/)
 11. [Best practices to optimize data access performance from Amazon EMR and AWS Glue to Amazon S3](https://aws.amazon.com/blogs/big-data/best-practices-to-optimize-data-access-performance-from-amazon-emr-and-aws-glue-to-amazon-s3/)
 
+## Additional References:
+1. [Shuffle Partition Calculator](https://justinbreese.com/spark-shuffle-partition-calculator/)
+
+   
