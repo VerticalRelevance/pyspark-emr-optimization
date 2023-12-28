@@ -27,5 +27,7 @@ This check list can be used as the starting point for optimizing and troubleshoo
 ## Additional References:
 1. [Shuffle Partition Calculator](https://justinbreese.com/spark-shuffle-partition-calculator/)
 2. [Performance Tuning](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
+3. [Spark Partition Size](https://sparkbyexamples.com/spark/spark-partition-size/)
+
 
    
